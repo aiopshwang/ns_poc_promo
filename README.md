@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+
 <!-- saved from url=(0017)http://localhost/ -->
 <!-- (c) 2016, SAS Institute Inc. -->
-<html><head><title>프로모션최적화_너구리</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="initial-scale=1.0"><meta name="format-detection" content="telephone=no">
+<html><head><title>프로모션최적화_너구리</title><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/><meta content="initial-scale=1.0" name="viewport"/><meta content="telephone=no" name="format-detection"/>
 <style>/* HTML Elements */
 *					{ -webkit-tap-highlight-color:rgba( 0, 0, 0, 0 ); /* Prevents flicker on mobile Safari */ }
 header				{ position: fixed; z-index: 1000; top: 0px; left: 0px; background-color: #ebeeef; width: 100%; box-shadow: 0 1px 5px #616466; padding: 5px 10px; border: solid #dbe0e3; border-width: 0 0 1px 0; white-space: nowrap; }
