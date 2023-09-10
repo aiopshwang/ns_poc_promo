@@ -1,6 +1,4 @@
-# ns_poc_promo
-
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0017)http://localhost/ -->
 <!-- (c) 2016, SAS Institute Inc. -->
 <html><head><title>프로모션최적화_너구리</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="initial-scale=1.0"><meta name="format-detection" content="telephone=no">
